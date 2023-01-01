@@ -12,11 +12,11 @@ def Space(j):
 
 print "  _                                                                             "
 
-print "_|_ o thes script by toxic dz ofc_|insta @toxic_dz_ofc|   png and jpg picture finder on free fire link |   "
+print "_|_ o thes script by Toxic Dz ofc |insta @toxic_dz_ofc|   png and jpg picture finder on free fire link |   "
 
-print " |  Toxic Tool |first tool of gettin link on free fire|please garena i need my old account hahaha, my UID is 48571916 "
+print " |  Toxic Tool |first tool of gettin link on free fire   | FF Try linking my account to Gmail  "
 
-print "                                                       |                        "
+print "  because I lost my Facebook account, my UID is 48571916 ME server                                                      |                        "
 
 def findAdmin():
 	f = open("link.txt","r");
