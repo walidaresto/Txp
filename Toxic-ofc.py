@@ -12,7 +12,7 @@ def Space(j):
 
 print "  _                                                                             "
 
-print "_|_ o thes script by toxic dz ofc_|insta toxic_dz_ofc|   png and jpg picture finder on free fire  |   "
+print "_|_ o thes script by toxic dz ofc_|insta @toxic_dz_ofc|   png and jpg picture finder on free fire link |   "
 
 print " |  Toxic Tool |first tool of gettin link on free fire|please garena i need my old account hahaha, my UID is 48571916 "
 
@@ -40,7 +40,7 @@ def findAdmin():
 def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#    Script by Toxic dz ofc         #"
-	Space(9); print "#     instagram @toxic_dz_ofc       #"
+	Space(9); print "#    instagram @toxic_dz_ofc        #"
 	Space(9); print "#####################################"
 
 Credit()
