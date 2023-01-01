@@ -21,12 +21,12 @@ print "  because I lost my Facebook account, my UID is 48571916 ME server       
 def findAdmin():
 	f = open("link.txt","r");
 	link = raw_input("Enter Site Name n(ex : example.com or www.example.com ): ")
-	print "\n\nAvilable links : \n"
+	ks : \n"
 	while True:
 		sub_link = f.readline()
 		if not sub_link:
 			break
-		req_link = "http://"+link+sub_link
+//"+link+sub_link
 		req = Request(req_link)
 		try:
 			response = urlopen(req)
@@ -43,5 +43,5 @@ def Credit():
 	Space(9); print "#    instagram @toxic_dz_ofc        #"
 	Space(9); print "#####################################"
 
-Credit()
+
 findAdmin()
