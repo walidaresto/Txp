@@ -12,7 +12,7 @@ def Space(j):
 
 print "  _                                                                             "
 
-print "_|_ o thes script by Toxic Dz ofc |insta @toxic_dz_ofc|   png and jpg picture finder on free fire link |   "
+print "|thes script by Toxic Dz ofc |insta @toxic_dz_ofc|   png and jpg picture finder on free fire link |   "
 
 print " |  Toxic Tool |first tool of gettin link on free fire   | FF Try linking my account to Gmail  "
 
@@ -21,12 +21,12 @@ print "  because I lost my Facebook account, my UID is 48571916 ME server       
 def findAdmin():
 	f = open("link.txt","r");
 	link = raw_input("Enter Site Name n(ex : example.com or www.example.com ): ")
-	ks : \n"
+	print "\n\nAvilable links : \n"
 	while True:
 		sub_link = f.readline()
 		if not sub_link:
 			break
-//"+link+sub_link
+		req_link = "http://"+link+sub_link
 		req = Request(req_link)
 		try:
 			response = urlopen(req)
@@ -37,10 +37,12 @@ def findAdmin():
 		else:
 			print (req_link)
 
+
 def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#    Script by Toxic dz ofc         #"
 	Space(9); print "#    instagram @toxic_dz_ofc        #"
+	Space(9); print "#    Credit to mustafa._.404        #"
 	Space(9); print "#####################################"
 
 
