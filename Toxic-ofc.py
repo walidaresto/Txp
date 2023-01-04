@@ -16,7 +16,7 @@ print "|thes script by Toxic Dz ofc |insta @toxic_dz_ofc|   png and jpg picture 
 
 print " |  Toxic Tool |first tool of gettin link on free fire   | FF Try linking my account to Gmail  "
 
-print "  because I lost my Facebook account, my UID is 48571916 ME server                                                      |                        "
+print "  because I lost my Facebook account, my UID is 48571916 ME server, credit Mustafa 404                                                     |                        "
 
 def findAdmin():
 	f = open("link.txt","r");
@@ -42,7 +42,6 @@ def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#    Script by Toxic dz ofc         #"
 	Space(9); print "#    instagram @toxic_dz_ofc        #"
-	Space(9); print "#    Credit to mustafa._.404        #"
 	Space(9); print "#####################################"
 
 
