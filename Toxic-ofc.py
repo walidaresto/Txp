@@ -10,7 +10,7 @@ def Space(j):
 		print " ",
 		i+=1
 
-print "  _                                                                             "
+print "  _                                                                              "
 
 print "|thes script by Toxic Dz ofc |insta @toxic_dz_ofc|   png and jpg picture finder on free fire link |   "
 
